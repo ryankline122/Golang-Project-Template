@@ -1,1 +1,1 @@
-# Interal source code goes here
+# Internal source code goes here
